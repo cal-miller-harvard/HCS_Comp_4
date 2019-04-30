@@ -1,0 +1,1 @@
+It shows Bitcoin prices, a random picture, and beeps when the page is loaded. These are important features for a weather app.
